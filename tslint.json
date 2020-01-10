@@ -1,0 +1,15 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "await-promise": true,
+        "space-within-parens": true,
+        "no-console": false,
+        "import-spacing": true,
+        "quotemark": false
+    },
+    "rulesDirectory": []
+}

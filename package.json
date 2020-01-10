@@ -1,0 +1,23 @@
+{
+  "name": "start_project",
+  "version": "1.0.0",
+  "description": "typescript cocos2d mobx state",
+  "main": "''",
+  "dependencies": {
+    "mobx": "^5.15.1",
+    "mobx-cocos": "^1.1.4",
+    "typescript": "^3.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "cocos",
+    "mobx",
+    "store"
+  ],
+  "author": "huaqingyi",
+  "license": "ISC"
+}
